@@ -8,3 +8,4 @@ shakla
 hiva nice
 xawar joon
 martia well
+tik takaa
