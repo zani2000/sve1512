@@ -12,3 +12,4 @@ tik takaa
 xosrov joon
 real one 
 xawrar
+goosh taza
