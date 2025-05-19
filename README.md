@@ -19,3 +19,4 @@ stock market
 ariooo
 kisaa
 kotel watter 
+gomalgaa
