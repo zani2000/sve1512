@@ -20,3 +20,4 @@ ariooo
 kisaa
 kotel watter 
 gomalgaa
+ghors xwardn
