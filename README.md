@@ -38,3 +38,4 @@ market crashed
 circulate
 crypto pioneer 
 attack
+penetrate
