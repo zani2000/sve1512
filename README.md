@@ -41,3 +41,4 @@ attack
 penetrate
 paradise
 censore
+whitlist
