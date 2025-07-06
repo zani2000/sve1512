@@ -45,3 +45,4 @@ whitlist
 solding car
 friday work
 wizard
+chance is great
