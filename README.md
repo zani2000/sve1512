@@ -47,3 +47,4 @@ friday work
 wizard
 chance is great
 shiba inu
+zama net
