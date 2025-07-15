@@ -49,3 +49,4 @@ chance is great
 shiba inu
 zama net
 snap back
+shib price
