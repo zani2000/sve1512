@@ -51,3 +51,4 @@ zama net
 snap back
 shib price
 hit the resis
+somnia mainnet
